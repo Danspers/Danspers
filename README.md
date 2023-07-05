@@ -1,6 +1,8 @@
 <h2 align='center'>Hello World, I'm Danila - aka Danspers 👋</h2>
 
-Резюме Junior Data Scientist [hh.ru](https://hh.ru/resume/24dd74ffff0c062a990039ed1f583859417174) / <a href = "https://github.com/Danspers/Danspers/blob/main/resume.pdf">.pdf</a>
+:page_facing_up: Резюме [hh.ru](https://hh.ru/resume/24dd74ffff0c062a990039ed1f583859417174) / <a href = "https://github.com/Danspers/Danspers/blob/main/Resume.pdf">.pdf</a>
+
+:mortar_board: Сертификат Data Scientist [rus](https://github.com/Danspers/Danspers/blob/main/Yandex.Practicum-DataScience(rus).pdf) / [eng](https://github.com/Danspers/Danspers/blob/main/Yandex.Practicum-DataScience(eng).pdf)
 
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
