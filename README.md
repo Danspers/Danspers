@@ -1,3 +1,21 @@
+<h2 align='center'>Hello World, I'm Danila - aka Danspers 👋</h2>
+
+Резюме Junior Data Scientist [hh.ru](https://hh.ru/resume/24dd74ffff0c062a990039ed1f583859417174) / <a href = "https://github.com/Danspers/Danspers/blob/main/resume.pdf">.pdf</a>
+
+[![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-464646??style=flat-square&logo=matplotlib)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-464646??style=flat-square&logo=Seaborn)](https://seaborn.pydata.org/)
+[![SKLearn](https://img.shields.io/badge/-SKLearn-464646??style=flat-square&logo=Scikitlearn)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-464646??style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-464646??style=flat-square&logo=PyTorch)](https://pytorch.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646??style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
+[![GIT](https://img.shields.io/badge/-GIT-464646??style=flat-square&logo=GIT)](https://git-scm.com/)
+[![MarkDown](https://img.shields.io/badge/-MarkDown-464646??style=flat-square&logo=MarkDown)](https://markdownguide.org/)
+
+Недавно завершил одноимённый курс на [Яндекс Практикуме](https://practicum.yandex.ru/profile/data-scientist/). Сейчас мне интересно продолжить работу в этой сфере, принять участие в работе большой команды и внести вклад в решения бизнес проблем.
+
 ## Учебные проекты:
 
 <details close>
