@@ -37,15 +37,15 @@
       </tr>
       <tr>
 	<td>2</td>
-  	<td><a href = "https://github.com/Danspers/11.Car-valuation">Определение стоимости б/у автомобилей</a></td>
-  	<td><tt>SKLearn, Pandas, LightGBM, Seaborn, Matplotlib-pyplot</tt></td>
-  	<td>Сервис по продаже автомобилей с пробегом <i>«Не бит, не крашен»</i> разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля.</td>
-      </tr>
-      <tr>
-	<td>3</td>
   	<td><a href = "https://github.com/Danspers/12.Taxi-booking-forecast">Прогнозирование заказов такси</a></td>
   	<td><tt>SKLearn, Pandas, LightGBM, Matplotlib-pyplot</tt></td>
   	<td>Компания <i>«Чётенькое такси»</i> собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час.</td>
+      </tr>
+      <tr>
+	<td>3</td>
+  	<td><a href = "https://github.com/Danspers/11.Car-valuation">Определение стоимости б/у автомобилей</a></td>
+  	<td><tt>SKLearn, Pandas, LightGBM, Seaborn, Matplotlib-pyplot</tt></td>
+  	<td>Сервис по продаже автомобилей с пробегом <i>«Не бит, не крашен»</i> разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля.</td>
       </tr>
       <tr>
 	<td>4</td>
@@ -74,27 +74,27 @@
       </tr>
       <tr>
 	<td>1</td>
+	<td><a href = "https://github.com/Danspers/15.Age-prediction">Определение возраста покупателей</a></td>
+	<td><tt>Tensorflow-Keras, Pandas, <br>Matplotlib-pyplot, GPU</tt></td>
+	<td>Сетевой супермаркет <i>«Хлеб-Соль»</i> внедряет систему компьютерного зрения для обработки фотографий покупателей. Необходимо построить модель, которая по фотографии определит приблизительный возраст человека.</td>
+      </tr>
+      <tr>
+	<td>2</td>
+	<td><a href = "https://github.com/Danspers/13.Toxic-comments">Фильтрация токсичных комментариев</a></td>
+	<td><tt>SKLearn, PyTorch, TensoeFlow, CatBoost, Sentence-Transformers, TF-IDF, GPU</tt></td>
+	<td>Интернет-магазин <i>«Викишоп»</i> запускает новый сервис: клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.</td>
+      </tr>
+      <tr>
+	<td>3</td>
 	<td><a href = "https://github.com/Danspers/7.Customer-churn">Прогнозирование оттока клиентов</a></td>
 	<td><tt>SKLearn, Pandas, Matplotlib-pyplot</tt></td>
 	<td>Из <i>«Бета-Банка»</i> стали ежемесячно уходить клиенты. Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.</td>
       </tr>
       <tr>
-	<td>2</td>
+	<td>4</td>
     	<td><a href = "https://github.com/Danspers/6.Recomend-system-for-tariffs">Рекомендации тарифов</a>*</td>
 	<td><tt>SKLearn, Pandas, Matplotlib-pyplot</tt></td>
 	<td>Оператор мобильной связи <i>«Мегалайн»</i> желает построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Smart» или «Ultra», поскольку многие клиенты пользуются архивными тарифами. <br> (*) продолжение <a href = "https://github.com/Danspers/4.Recomend-system-for-tariffs-SDA">статистического анализа абонентов «Мегалайн»</a>.</td>
-      </tr>
-      <tr>
-	<td>3</td>
-	<td><a href = "https://github.com/Danspers/15.Age-prediction">Определение возраста покупателей</a></td>
-	<td><tt>Tensorflow-Keras, Pandas, Matplotlib-pyplot, GPU</tt></td>
-	<td>Сетевой супермаркет <i>«Хлеб-Соль»</i> внедряет систему компьютерного зрения для обработки фотографий покупателей. Необходимо построить модель, которая по фотографии определит приблизительный возраст человека.</td>
-      </tr>
-      <tr>
-	<td>4</td>
-	<td><a href = "https://github.com/Danspers/13.Toxic-comments">Фильтрация токсичных комментариев</a></td>
-	<td><tt>SKLearn, PyTorch, TensoeFlow, CatBoost, Sentence-Transformers, TF-IDF, GPU</tt></td>
-	<td>Интернет-магазин <i>«Викишоп»</i> запускает новый сервис: клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.</td>
       </tr>
     </table>
 </details>
@@ -122,27 +122,27 @@
       </tr>
       <tr>
   	<td>3</td>
-    	<td><a href = "https://github.com/Danspers/1.Yandex-Music">Яндекс.Музыка</a></td>
-	<td><tt>Pandas</tt></td>
-	<td>Сравнение пользователей <a href = "https://music.yandex.ru/">Яндекс Музыка</a> из Москвы и Петербурга. Проверка сформулированных гипотез.</td>
-      </tr>
-      <tr>
-  	<td>4</td>
-    	<td><a href = "https://github.com/Danspers/2.Bank-Credit-department">Исследование надёжности заёмщиков</a></td>
-	<td><tt>Pandas, Seaborn</tt></td>
-	<td>Для кредитныго отдела банка необходимо провести исследование: выявить влияет ли семейное положение, количество детей клиента и др. факторы на погашения кредита в срок.</td>
-      </tr>
-      <tr>
-  	<td>5</td>
 	<td><a href = "https://github.com/Danspers/4.Recomend-system-for-tariffs-SDA">Статистический анализ абонентов «Мегалайн»</a>*</td>
   	<td><tt>Pandas, Seaborn, Matplotlib-pyplot, Scipy-stats</tt></td>
   	<td>Компания <i>«Мегалайн»</i> — федеральный оператор сотовой связи. Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше прибыли. <br> (*) предварительный анализ для проекта <a href = "https://github.com/Danspers/6.Recomend-system-for-tariffs">"Рекомендации тарифов"</a>.</td>
       </tr>
       <tr>
-  	<td>6</td>
+  	<td>4</td>
     	<td><a href = "https://github.com/Danspers/3.EDA-apartments-sales">Анализ продаж квартир в С.Петербурге и области</a></td>
   	<td><tt>Pandas, Seaborn, Matplotlib-pyplot</tt></td>
   	<td>Необходимо научиться определять рыночную стоимость объектов недвижимости, и выявить параметры, которые на это влияют. Это позволит построить автоматизированную систему отслеживания аномалий и мошеннической деятельности для сервиса <a href = "https://realty.ya.ru/sankt-peterburg_i_leningradskaya_oblast/">Яндекс Недвижимость</a>.</td>
+      </tr>
+      <tr>
+  	<td>5</td>
+    	<td><a href = "https://github.com/Danspers/2.Bank-Credit-department">Исследование надёжности заёмщиков</a></td>
+	<td><tt>Pandas, Seaborn</tt></td>
+	<td>Для кредитныго отдела банка необходимо провести исследование: выявить влияет ли семейное положение, количество детей клиента и др. факторы на погашения кредита в срок.</td>
+      </tr>
+      <tr>
+  	<td>6</td>
+    	<td><a href = "https://github.com/Danspers/1.Yandex-Music">Яндекс.Музыка</a></td>
+	<td><tt>Pandas</tt></td>
+	<td>Сравнение пользователей <a href = "https://music.yandex.ru/">Яндекс Музыка</a> из Москвы и Петербурга. Проверка сформулированных гипотез.</td>
       </tr>
     </table>
 </details>
