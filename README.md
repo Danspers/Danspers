@@ -1,6 +1,6 @@
 <h2 align='center'>Hello World, I'm Danila - aka Danspers 👋</h2>
 
-:page_facing_up: Резюме [hh.ru](https://hh.ru/resume/24dd74ffff0c062a990039ed1f583859417174) / <a href = "https://github.com/Danspers/Danspers/blob/main/Resume.pdf">.pdf</a>
+:page_facing_up: Резюме [Хабр Карьера](https://career.habr.com/danspers) / [HH.ru](https://hh.ru/resume/24dd74ffff0c062a990039ed1f583859417174) / <a href = "https://github.com/Danspers/Danspers/blob/main/Resume.pdf">.pdf</a>
 
 :mortar_board: Сертификат Data Scientist [rus](https://github.com/Danspers/Danspers/blob/main/Yandex.Practicum-DataScience(rus).pdf) / [eng](https://github.com/Danspers/Danspers/blob/main/Yandex.Practicum-DataScience(eng).pdf)
 
@@ -8,7 +8,7 @@
 [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-464646??style=flat-square&logo=matplotlib)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/-Seaborn-464646??style=flat-square&logo=Seaborn)](https://seaborn.pydata.org/)
-[![SKLearn](https://img.shields.io/badge/-SKLearn-464646??style=flat-square&logo=Scikitlearn)](https://scikit-learn.org/)
+[![SKLearn](https://img.shields.io/badge/-Scikit_Learn-464646??style=flat-square&logo=Scikitlearn)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-464646??style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-464646??style=flat-square&logo=PyTorch)](https://pytorch.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646??style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
