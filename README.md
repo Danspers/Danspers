@@ -37,24 +37,30 @@
       </tr>
       <tr>
 	<td>2</td>
+	<td><a href = "https://github.com/Danspers/15.Age-prediction">Определение возраста покупателей</a></td>
+	<td><tt>Tensorflow-Keras, Pandas, <br>Matplotlib-pyplot, GPU</tt></td>
+	<td>Сетевой супермаркет <i>«Хлеб-Соль»</i> внедряет систему компьютерного зрения для обработки фотографий покупателей. Необходимо построить модель, которая по фотографии определит приблизительный возраст человека.</td>
+      </tr>
+      <tr>
+	<td>3</td>
   	<td><a href = "https://github.com/Danspers/12.Taxi-booking-forecast">Прогнозирование заказов такси</a></td>
   	<td><tt>SKLearn, Pandas, LightGBM, Matplotlib-pyplot</tt></td>
   	<td>Компания <i>«Чётенькое такси»</i> собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час.</td>
       </tr>
       <tr>
-	<td>3</td>
+	<td>4</td>
   	<td><a href = "https://github.com/Danspers/11.Car-valuation">Определение стоимости б/у автомобилей</a></td>
   	<td><tt>SKLearn, Pandas, LightGBM, Seaborn, Matplotlib-pyplot</tt></td>
   	<td>Сервис по продаже автомобилей с пробегом <i>«Не бит, не крашен»</i> разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля.</td>
       </tr>
       <tr>
-	<td>4</td>
+	<td>5</td>
 	<td><a href = "https://github.com/Danspers/8.Oil-well-selection">Выбор новой локации для нефтедобычи</a></td>
 	<td><tt>SKLearn, Pandas, Matplotlib-pyplot</tt></td>
 	<td>Компании <i>«ГлавРосГосНефть»</i> необходима модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализировать возможную прибыль и риски техникой <ins>Bootstrap</ins>.</td>
       </tr>
       <tr>
-	<td>5</td>
+	<td>6</td>
   	<td><a href = "https://github.com/Danspers/9.Gold-recovery">Восстановление золота из руды</a></td>
 	<td><tt>SKLearn, Pandas, Seaborn, Matplotlib-pyplot</tt></td>
 	<td>Подготовьте прототип модели машинного обучения для <a href = "https://www.zyfra.com/">«Цифры»</a>. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды.</td>
@@ -74,24 +80,18 @@
       </tr>
       <tr>
 	<td>1</td>
-	<td><a href = "https://github.com/Danspers/15.Age-prediction">Определение возраста покупателей</a></td>
-	<td><tt>Tensorflow-Keras, Pandas, <br>Matplotlib-pyplot, GPU</tt></td>
-	<td>Сетевой супермаркет <i>«Хлеб-Соль»</i> внедряет систему компьютерного зрения для обработки фотографий покупателей. Необходимо построить модель, которая по фотографии определит приблизительный возраст человека.</td>
-      </tr>
-      <tr>
-	<td>2</td>
 	<td><a href = "https://github.com/Danspers/13.Toxic-comments">Фильтрация токсичных комментариев</a></td>
 	<td><tt>SKLearn, PyTorch, TensoeFlow, CatBoost, Sentence-Transformers, TF-IDF, GPU</tt></td>
 	<td>Интернет-магазин <i>«Викишоп»</i> запускает новый сервис: клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.</td>
       </tr>
       <tr>
-	<td>3</td>
+	<td>2</td>
 	<td><a href = "https://github.com/Danspers/7.Customer-churn">Прогнозирование оттока клиентов</a></td>
 	<td><tt>SKLearn, Pandas, Matplotlib-pyplot</tt></td>
 	<td>Из <i>«Бета-Банка»</i> стали ежемесячно уходить клиенты. Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.</td>
       </tr>
       <tr>
-	<td>4</td>
+	<td>3</td>
     	<td><a href = "https://github.com/Danspers/6.Recomend-system-for-tariffs">Рекомендации тарифов</a>*</td>
 	<td><tt>SKLearn, Pandas, Matplotlib-pyplot</tt></td>
 	<td>Оператор мобильной связи <i>«Мегалайн»</i> желает построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Smart» или «Ultra», поскольку многие клиенты пользуются архивными тарифами. <br> (*) продолжение <a href = "https://github.com/Danspers/4.Recomend-system-for-tariffs-SDA">статистического анализа абонентов «Мегалайн»</a>.</td>
