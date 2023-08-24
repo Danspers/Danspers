@@ -2,6 +2,8 @@
 
 :page_facing_up: Резюме [Хабр Карьера](https://career.habr.com/danspers) / [HH.ru](https://hh.ru/resume/24dd74ffff0c062a990039ed1f583859417174) / <a href = "https://github.com/Danspers/Danspers/blob/main/Resume.pdf">.pdf</a>
 
+:scroll: Рекомендации: [Яндекс Практикум](https://github.com/Danspers/Danspers/blob/main/Letter_of_recommendation_(Yandex.Practicum).pdf)
+
 :mortar_board: Сертификат Data Scientist [rus](https://github.com/Danspers/Danspers/blob/main/Yandex.Practicum-DataScience(rus).pdf) / [eng](https://github.com/Danspers/Danspers/blob/main/Yandex.Practicum-DataScience(eng).pdf)
 
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
