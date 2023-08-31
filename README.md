@@ -166,3 +166,7 @@
       </tr>
     </table>
 </details>
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Danspers&style=flat-square&color=blue" alt=""/>
+</div>
