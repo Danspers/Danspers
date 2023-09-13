@@ -1,6 +1,6 @@
 <h2 align='center'>Hello World, I'm Danila - aka Danspers 👋</h2>
 
-:page_facing_up: Резюме [Хабр Карьера](https://career.habr.com/danspers) / [HH.ru](https://hh.ru/resume/24dd74ffff0c062a990039ed1f583859417174) / <a href = "https://github.com/Danspers/Danspers/blob/main/Resume.pdf">.pdf</a>
+:page_facing_up: Резюме [Хабр Карьера](https://career.habr.com/danspers) / [HH.ru](https://hh.ru/resume/24dd74ffff0c062a990039ed1f583859417174) / [.pdf](https://github.com/Danspers/Danspers/blob/main/Resume.pdf)
 
 :scroll: Рекомендации: [Яндекс Практикум](https://github.com/Danspers/Danspers/blob/main/Letter_of_recommendation_(Yandex.Practicum).pdf)
 
