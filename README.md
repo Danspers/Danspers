@@ -22,12 +22,13 @@
 
 ## Внеучебные проекты и прочие работы:
 
-| № | Название проекта                                           | Библиотеки/Инструменты            | Краткое описание                                     |
-| - |:---------------------------------------------------------- |:---------------------------------:| ---------------------------------------------------- |
-| 1 | [Matching](https://github.com/Danspers/Matching)           | `Pandas`, `Scikit-Learn`, `Faiss` | Кредитование. Предсказывание возврата кредита.       |
-| 2 | [Fishki-CV](https://github.com/Danspers/Fishki-CV)         | `Pandas`, `TensorFlow`, `Skimage` | Обучение нейросети для сегментации изображений.      |
-| 3 | [Lending](https://github.com/Danspers/Lending-Club)        | `Pandas`, `Matplotlib-pyplot`     | Сопоставление товаров из маркетплейса друг с другом. |
-| 4 | [Tinkoff-start](https://github.com/Danspers/Tinkoff-start) | `Python`                          | Экзамены по программированию.                        |
+| № | Название проекта                                                   | Библиотеки/Инструменты                | Краткое описание                                     |
+| - |:------------------------------------------------------------------ |:-------------------------------------:| ---------------------------------------------------- |
+| 1 | [Lenta-time-series](https://github.com/Danspers/Lenta-time-series) | `Python`, `Java-Script`, `PostgreSQL` | Хакатон "Лента х Практикум".                         |
+| 2 | [Matching](https://github.com/Danspers/Matching)                   | `Pandas`, `Scikit-Learn`, `Faiss`     | Кредитование. Предсказывание возврата кредита.       |
+| 3 | [Fishki-CV](https://github.com/Danspers/Fishki-CV)                 | `Pandas`, `TensorFlow`, `Skimage`     | Обучение нейросети для сегментации изображений.      |
+| 4 | [Lending](https://github.com/Danspers/Lending-Club)                | `Pandas`, `Matplotlib-pyplot`         | Сопоставление товаров из маркетплейса друг с другом. |
+| 5 | [Tinkoff-start](https://github.com/Danspers/Tinkoff-start)         | `Python`                              | Экзамены по программированию.                        |
 
 ## Учебные проекты: (кликабельно)
 
