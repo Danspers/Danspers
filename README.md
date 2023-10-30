@@ -24,9 +24,9 @@
 | № | Название проекта                                                   | Библиотеки/Инструменты                | Краткое описание                                     |
 | - |:------------------------------------------------------------------ |:-------------------------------------:| ---------------------------------------------------- |
 | 1 | [Lenta-time-series](https://github.com/Danspers/Lenta-time-series) | `Python`, `Java-Script`, `PostgreSQL` | Хакатон "Лента х Практикум".                         |
-| 2 | [Matching](https://github.com/Danspers/Matching)                   | `Pandas`, `Scikit-Learn`, `Faiss`     | Кредитование. Предсказывание возврата кредита.       |
+| 2 | [Matching](https://github.com/Danspers/Matching)                   | `Pandas`, `Scikit-Learn`, `Faiss`     | Сопоставление товаров из маркетплейса друг с другом. |
 | 3 | [Fishki-CV](https://github.com/Danspers/Fishki-CV)                 | `Pandas`, `TensorFlow`, `Skimage`     | Обучение нейросети для сегментации изображений.      |
-| 4 | [Lending](https://github.com/Danspers/Lending-Club)                | `Pandas`, `Matplotlib-pyplot`         | Сопоставление товаров из маркетплейса друг с другом. |
+| 4 | [Lending](https://github.com/Danspers/Lending-Club)                | `Pandas`, `Matplotlib-pyplot`         | Кредитование. Предсказывание возврата кредита.       |
 | 5 | [Tinkoff-start](https://github.com/Danspers/Tinkoff-start)         | `Python`                              | Экзамены по программированию.                        |
 
 ## Учебные проекты: (кликабельно)
@@ -91,7 +91,7 @@
       <tr>
 	<td>1</td>
 	<td><a href = "https://github.com/Danspers/13.Toxic-comments">Фильтрация токсичных комментариев</a></td>
-	<td><tt>Scikit-Learn</tt>, <tt>CatBoost</tt>, <tt>TensoeFlow</tt>, <tt>GPU</tt>, <tt>Sentence-Transformers</tt>, <tt>TF-IDF</tt></td>
+	<td><tt>Scikit-Learn</tt>, <tt>CatBoost</tt>, <tt>TensorFlow</tt>, <tt>GPU</tt>, <tt>Sentence-Transformers</tt>, <tt>TF-IDF</tt></td>
 	<td>Интернет-магазин <i>«Викишоп»</i> запускает новый сервис: клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.</td>
       </tr>
       <tr>
@@ -168,7 +168,7 @@
       </tr>
       <tr>
 	<td>1</td>
-  	<td><a href = "https://github.com/Danspers/10.Personal-data-protection">Кодирование конфеденциальной информации</a></td>
+  	<td><a href = "https://github.com/Danspers/10.Personal-data-protection">Кодирование конфиденциальной информации</a></td>
 	<td><tt>Scikit-Learn</tt>, <tt>NumPy</tt>, <tt>Pandas</tt>, <br><tt>Matplotlib-pyplot</tt></td>
 	<td>Для страховой компании <i>«Хоть потоп»</i> необходимо разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию.</td>
       </tr>
