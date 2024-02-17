@@ -24,10 +24,11 @@
 | № | Название проекта                                                   | Библиотеки/Инструменты                | Краткое описание                                     |
 | - |:------------------------------------------------------------------ |:-------------------------------------:| ---------------------------------------------------- |
 | 1 | [Lenta-time-series](https://github.com/Danspers/Lenta-time-series) | `Python`, `Java-Script`, `PostgreSQL` | Хакатон "Лента х Практикум".                         |
-| 2 | [Matching](https://github.com/Danspers/Matching)                   | `Pandas`, `Scikit-Learn`, `Faiss`     | Сопоставление товаров из маркетплейса друг с другом. |
-| 3 | [Fishki-CV](https://github.com/Danspers/Fishki-CV)                 | `Pandas`, `TensorFlow`, `Skimage`     | Обучение нейросети для сегментации изображений.      |
-| 4 | [Lending](https://github.com/Danspers/Lending-Club)                | `Pandas`, `Matplotlib-pyplot`         | Кредитование. Предсказывание возврата кредита.       |
-| 5 | [Tinkoff-start](https://github.com/Danspers/Tinkoff-start)         | `Python`                              | Экзамены по программированию.                        |
+| 2 | [Samokat.tech](https://github.com/Danspers/Samokat.tech-Matching)  | `Python`, `Scikit-Learn`, `CatBoost`  | Хакатон "Samokat.tech" (в процессе).                 |
+| 3 | [Matching](https://github.com/Danspers/Matching)                   | `Pandas`, `Scikit-Learn`, `Faiss`     | Сопоставление товаров из маркетплейса друг с другом. |
+| 4 | [Fishki-CV](https://github.com/Danspers/Fishki-CV)                 | `Pandas`, `TensorFlow`, `Skimage`     | Обучение нейросети для сегментации изображений.      |
+| 5 | [STEK-test](https://github.com/Danspers/STEK-test)                 | `Python`, `PostgreSQL`                | Тестовое задание для группы компаний "СТЕК"          |
+| 6 | [Tinkoff-start](https://github.com/Danspers/Tinkoff-start)         | `Python`                              | Экзамены по программированию.                        |
 
 ## Учебные проекты: (кликабельно)
 
