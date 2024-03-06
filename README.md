@@ -6,7 +6,7 @@
 
 :mortar_board: Сертификат Data Scientist [rus](https://github.com/Danspers/Danspers/blob/main/Yandex.Practicum-DataScience(rus).pdf) / [eng](https://github.com/Danspers/Danspers/blob/main/Yandex.Practicum-DataScience(eng).pdf)
 
-:runner: Хакатон [Лента х Яндекс Практикум](https://github.com/Danspers/Danspers/blob/main/Hackathon_Lenta_x_Yandex_Practicum.pdf)
+:runner: Хакатоны: [Лента х Яндекс Практикум](https://github.com/Danspers/Danspers/blob/main/Hackathon_Lenta_x_Yandex_Practicum.pdf), [Samokat.tech](https://github.com/Danspers/Danspers/blob/main/Hackathon_Samokat.tech.pdf) 
 
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
@@ -26,9 +26,10 @@
 | 1 | [Lenta-time-series](https://github.com/Danspers/Lenta-time-series) | `Python`, `Java-Script`, `PostgreSQL` | Хакатон "Лента х Практикум". Прогноз временных рядов.    |
 | 2 | [Samokat.tech](https://github.com/Danspers/Samokat.tech-Matching)  | `Python`, `Scikit-Learn`, `CatBoost`  | Хакатон "Samokat.tech". Мэтчинг/классификация.           |
 | 3 | [Matching](https://github.com/Danspers/Matching)                   | `Pandas`, `Scikit-Learn`, `Faiss`     | Сопоставление товаров из маркетплейса друг с другом.     |
-| 4 | [Fishki-CV](https://github.com/Danspers/Fishki-CV)                 | `Pandas`, `TensorFlow`, `Skimage`     | Обучение нейросети для сегментации изображений.          |
-| 5 | [STEK-test](https://github.com/Danspers/STEK-test)                 | `Python`, `PostgreSQL`                | SQL функции выборки из БД + скрипт сортировки документов.|
-| 6 | [Tinkoff-start](https://github.com/Danspers/Tinkoff-start)         | `Python`                              | Экзамены по программированию.                            |
+| 4 | [SberMarket](https://github.com/Danspers/SberMarket-test)          | `Pandas`, `Scikit-Learn`, `Faiss`     | Прогнозирование заказов на маркетплейсе.                 |
+| 5 | [Fishki-CV](https://github.com/Danspers/Fishki-CV)                 | `Pandas`, `TensorFlow`, `Skimage`     | Обучение нейросети для сегментации изображений.          |
+| 6 | [STEK-test](https://github.com/Danspers/STEK-test)                 | `Python`, `PostgreSQL`                | SQL функции выборки из БД + скрипт сортировки документов.|
+| 7 | [Tinkoff-start](https://github.com/Danspers/Tinkoff-start)         | `Python`                              | Экзамены по программированию.                            |
 
 ## Учебные проекты: (кликабельно)
 
